@@ -1,4 +1,4 @@
-# Welcome to my GitHub, my name is Nicolò Nucci
+# Hi, I'm Nicolò 👋 Welcome to the short version of me
 
 MSc student in Data Science at the University of Milano-Bicocca, with a background in Mathematical Engineering and hands-on experience in deep learning for computer vision.
 
