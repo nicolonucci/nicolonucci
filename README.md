@@ -37,3 +37,4 @@ MSc student in Data Science at the University of Milano-Bicocca, with a backgrou
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-NICOL%C3%92%20NUCCI-0A66C2)](https://linkedin.com/in/nicolonucci)
+[![Email](https://img.shields.io/badge/EMAIL-N.NUCCI.WORK%40ICLOUD.COM-3693F3?logo=icloud&logoColor=white)](mailto:n.nucci.work@icloud.com)
